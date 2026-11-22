@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>https://www.sueno_8_lab/index.html</loc>
+        <loc>https://wwsueno.github.io/8_lab/index.html</loc>
         <lastmod>2026-11-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </sitemap>
 
     <sitemap>
-        <loc>https://www.sueno_8_lab/registration.html</loc>
+        <loc>https://wwsueno.github.io/8_lab/registration.html</loc>
         <lastmod>2026-11-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </sitemap>
 
     <sitemap>
-        <loc>https://www.sueno_8_lab/portfolio.html</loc>
+        <loc>https://wwsueno.github.io/8_lab/portfolio.html</loc>
         <lastmod>2026-11-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
