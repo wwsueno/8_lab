@@ -2,8 +2,6 @@ User-agent: *
 Disallow: /css/
 Disallow: /js/
 Disallow: /images/
-Allow: /index.html
-Allow: /portfolio.html
-Allow: /registrtion.html
 
-Sitemap: https://wwsueno.github.io/8_lab/sitemap.xml
+
+Sitemap: http://www.sueno_8_lab/sitemap.xml
